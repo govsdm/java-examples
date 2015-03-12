@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{"recommend":{"ram":256,"variables":{},"options":{}}},"default":"system:/java/standalone/simple/cli"},"builders":{"configs":{},"default":"ant"},"description":"Sample Application to show use of Abstract Class in Java","type":"ant","attributes":{"languageVersion":["1.6"],"language":["java"]}}
