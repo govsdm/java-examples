@@ -23,7 +23,7 @@
         <jar jarfile="${build}/${name}.jar">
             <fileset dir="${build.classes}"/>
             <manifest>
-                <attribute name="Main-Class" value="com.codenvy.examples.ant.Main"/>
+                <attribute name="Main-Class" value="com.codenvy.examples.ant.PCFixed"/>
             </manifest>
         </jar>
     </target>
